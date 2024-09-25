@@ -2,7 +2,7 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
@@ -93,7 +93,7 @@ Importance: System testing is important because it ensures that the system is wo
 4. Acceptance testing: is the process of testing the system to ensure that it meets the requirements and is acceptable to the end-users. it is typically performed by the end-users or stakeholders.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
